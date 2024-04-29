@@ -1,0 +1,4 @@
+# Ignore files and directories not needed in the Docker image
+node_modules
+.git
+
